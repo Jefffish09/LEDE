@@ -1,3 +1,10 @@
+# Reference
+
+- [LEDE](https://github.com/coolsnowwolf/lede)
+- [SSR+](https://github.com/fw876/helloworld)
+- [OpenClash](https://github.com/vernesong/OpenClash)
+- [luci-app-adguardhome](https://github.com/kongfl888/luci-app-adguardhome)
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
